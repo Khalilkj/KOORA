@@ -1,0 +1,18 @@
+table ,td ,th{
+    margin-top: 50PX;
+    border: 2px  rgb(253, 255, 159);
+    border-radius: 5%;
+    box-shadow: 0 0 100px ;
+    border-color: rgb(19, 13, 9);
+    backdrop-filter: BLUR (40PX);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;       
+    }
+    .A{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 30px;
+    }
+body{
+    background-color:rgb(26, 71, 50) ;
+}
